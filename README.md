@@ -1,4 +1,4 @@
-# DO NOT COPY
+# Repurposing Suggestions
 
 The Repurposing Suggestions Software project is aimed at developing a Java application that assists the Software Solutions Department in managing and utilizing waste items more efficiently. The application will serve as a database for storing and retrieving repurposing suggestions for various waste materials.
 
